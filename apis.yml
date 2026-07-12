@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://trashnothing.com/developer
 common:
+  - type: VulnerabilityDisclosure
+    url: security/trash-nothing-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/trash-nothing-domain-security.yml
   - type: Website
     url: https://trashnothing.com/developer
   - type: PublicAPIsListing
