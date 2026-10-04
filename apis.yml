@@ -39,7 +39,6 @@ apis:
   - name: Trash Nothing
     description: "A freecycling community with thousands of free items posted every day"
     humanURL: https://trashnothing.com/developer
-    baseURL: https://trashnothing.com/developer
     tags:
       - Social
     properties:
